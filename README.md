@@ -1,1 +1,1 @@
-# A-customized-Snack-Ordering-and-delivery-app
+An Android Application for Keeping Up with the Latest Headlines
